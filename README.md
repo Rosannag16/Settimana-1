@@ -1,2 +1,2 @@
 # Settimana-1
-settimana 1 lezone 1
+settimana 1 lezione 1
