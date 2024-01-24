@@ -1,0 +1,22 @@
+img {
+    width: 50;
+}
+
+body {
+    text-align: center;
+}
+
+head {
+    text-align: center;
+}
+
+body {
+    width: 60;
+    margin: 0 auto;
+}
+
+div {
+    background-color: yellow;
+    width: fit-content;
+    text-align: center;
+}
