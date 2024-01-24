@@ -4,11 +4,9 @@ img {
 
 body {
     text-align: center;
+
 }
 
-head {
-    text-align: center;
-}
 
 body {
     width: 60;
@@ -16,7 +14,7 @@ body {
 }
 
 div {
-    background-color: yellow;
-    width: fit-content;
-    text-align: center;
+    background-color: rgba(247, 255, 5, 0.623);
+    text-shadow: ;
+
 }
